@@ -1,0 +1,12 @@
+public class StringToPrimitive1{
+public static void main(String []args){
+ int a=Integer.parseInt("1");
+ Boolean b1=Boolean.parseBoolean("FAruk");
+Double d=Double.parseDouble("10.0");
+System.out.println(a);
+System.out.pritnln(bjav1);
+System.out.println(d);
+
+
+
+}}
